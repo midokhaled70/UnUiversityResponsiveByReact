@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/UnUiversityResponsiveByReact/static/css/main.e6b40eaa.css",
+    "main.js": "/UnUiversityResponsiveByReact/static/js/main.ebb605b2.js",
+    "static/js/453.ed3810f9.chunk.js": "/UnUiversityResponsiveByReact/static/js/453.ed3810f9.chunk.js",
+    "static/media/hero.png": "/UnUiversityResponsiveByReact/static/media/hero.1c44fc731e824d345d6b.png",
+    "static/media/m.mp4": "/UnUiversityResponsiveByReact/static/media/m.0a88353cfe1f0e754bc7.mp4",
+    "static/media/about.png": "/UnUiversityResponsiveByReact/static/media/about.ae79f7c4ba002987bed7.png",
+    "static/media/program-3.png": "/UnUiversityResponsiveByReact/static/media/program-3.73a816ab56c0a6e457d6.png",
+    "static/media/program-1.png": "/UnUiversityResponsiveByReact/static/media/program-1.a77b437944c963838cea.png",
+    "static/media/program-2.png": "/UnUiversityResponsiveByReact/static/media/program-2.72b615ee1f3e9b493416.png",
+    "static/media/gallery-3.png": "/UnUiversityResponsiveByReact/static/media/gallery-3.cc599987b9e13cee8fcc.png",
+    "static/media/gallery-4.png": "/UnUiversityResponsiveByReact/static/media/gallery-4.2d4f350efbdf6fc200a8.png",
+    "static/media/gallery-1.png": "/UnUiversityResponsiveByReact/static/media/gallery-1.901e63cc3af8b9273073.png",
+    "static/media/gallery-2.png": "/UnUiversityResponsiveByReact/static/media/gallery-2.cb423b37437ac0ff6f31.png",
+    "static/media/user-2.png": "/UnUiversityResponsiveByReact/static/media/user-2.b22c59baa927c1be0d2e.png",
+    "static/media/user-3.png": "/UnUiversityResponsiveByReact/static/media/user-3.12915e16ed909bbd9b48.png",
+    "static/media/user-4.png": "/UnUiversityResponsiveByReact/static/media/user-4.50ce69a0306667eba2c1.png",
+    "static/media/user-1.png": "/UnUiversityResponsiveByReact/static/media/user-1.1f46bb883fe387830efd.png",
+    "index.html": "/UnUiversityResponsiveByReact/index.html",
+    "main.e6b40eaa.css.map": "/UnUiversityResponsiveByReact/static/css/main.e6b40eaa.css.map",
+    "main.ebb605b2.js.map": "/UnUiversityResponsiveByReact/static/js/main.ebb605b2.js.map",
+    "453.ed3810f9.chunk.js.map": "/UnUiversityResponsiveByReact/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6b40eaa.css",
+    "static/js/main.ebb605b2.js"
+  ]
+}
