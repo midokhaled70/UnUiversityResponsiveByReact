@@ -1,6 +1,3 @@
-Here's a **README.md** file for your React university-themed website project. This file summarizes how to install, run, and deploy your project using GitHub Pages:
-
----
 
 ```markdown
 # 🎓 University Responsive Website with React
