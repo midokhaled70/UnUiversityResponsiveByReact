@@ -68,6 +68,13 @@ npm install
 ```
 
 ---
+## Screenshots
+--![4](https://github.com/user-attachments/assets/e184102b-eded-4d07-91f9-0c582951f174)
+![3](https://github.com/user-attachments/assets/98fc8200-d89e-4fbb-b3f1-fb0090a5e349)
+![2](https://github.com/user-attachments/assets/8420e8c8-d11a-48c4-b247-a316f4361447)
+![1](https://github.com/user-attachments/assets/f73c4fcc-8aa9-4c55-8e8f-135f9ef40a67)
+![6](https://github.com/user-attachments/assets/ee25ad5e-c897-46ad-9daa-097d0e0583c3)
+![5](https://github.com/user-attachments/assets/7e945cbe-2065-4d36-8a87-1181c864099e)
 
 ## 🧑‍💻 Running the Project Locally
 
