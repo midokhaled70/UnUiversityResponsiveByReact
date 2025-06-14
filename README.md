@@ -116,7 +116,7 @@ This will build the project and deploy the `/build` folder to GitHub Pages using
 
 ## 📬 Contact
 
-**Developer**: Ahmed Khaled Elmetwaly  
+**Developer**: Ahmed Khaled Elmetwaly Moawad
 📧 Email: ahmeddkhaled224@gmail.com  
 📱 Phone: +20 103 048 0083
 
