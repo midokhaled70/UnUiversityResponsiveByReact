@@ -113,7 +113,8 @@ This will build the project and deploy the `/build` folder to GitHub Pages using
 - Pure CSS (no frameworks)
 
 ---
-
+##Autor
+**Ahmed Khlaed**
 ## 📬 Contact
 
 **Developer**: Ahmed Khaled Elmetwaly Moawad
