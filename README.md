@@ -1,6 +1,6 @@
 
 ```markdown
-# 🎓 University Responsive Website with React
+## 🎓 University Responsive Website with React
 
 A responsive university-themed website built with **React**, showcasing various sections such as Programs, About, Campus Gallery, Testimonials, and Contact Form. This project is fully styled and responsive for desktop and mobile screens.
 
