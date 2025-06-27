@@ -114,7 +114,7 @@ This will build the project and deploy the `/build` folder to GitHub Pages using
 
 ---
 ##Autor
-**mido Khlaed**
+**Ahmed Khlaed**
 ## 📬 Contact
 
 **Developer**: Ahmed Khaled Elmetwaly Moawad
