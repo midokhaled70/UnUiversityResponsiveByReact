@@ -114,7 +114,7 @@ This will build the project and deploy the `/build` folder to GitHub Pages using
 
 ---
 ##Autor
-**Ah**
+**Ahm**
 ## 📬 Contact
 
 **Developer**: Ahmed Khaled Elmetwaly Moawad
